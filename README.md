@@ -1,4 +1,4 @@
-# This is my test repo
+# This is my test repo (class assignment)
 
 ## This is my first edit to this file
 
